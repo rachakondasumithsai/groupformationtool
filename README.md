@@ -1,6 +1,6 @@
 # GroupFormationTool
 
-A web application based on SpringBoot framework. This application provides an institution containing admin, instructors, teaching assistants and students to manage the courses, conduct surveys and form groups based on students inputs on surveys.
+A web application based on SpringBoot framework. This application provides ability to an institution containing admin, instructors, teaching assistants and students to manage the courses, conduct surveys and form groups based on students inputs on surveys.
 
 **Contributors**
 * [Vamsi Gamidi](https://git.cs.dal.ca/gamidi)
